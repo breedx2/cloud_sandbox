@@ -13,6 +13,11 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="org.apache.zookeeper:zookeeper:3.4.5" level="project" />
+    <orderEntry type="library" name="voldemort-0.96" level="project" />
+    <orderEntry type="library" name="com.google.collections:google-collections:1.0" level="project" />
+    <orderEntry type="library" name="jdom:jdom:1.1" level="project" />
+    <orderEntry type="library" name="com.google.protobuf:protobuf-java:2.4.1" level="project" />
+    <orderEntry type="library" name="com.google.code.gson:gson:2.2.2" level="project" />
   </component>
 </module>
 
